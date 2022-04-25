@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FoodActivity"
+    android:background="@color/background_color">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/txtHeading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="List of Foods:"
+            android:textStyle="bold"
+            android:layout_centerHorizontal="true"
+            android:textSize="20sp"
+            />
+
+        <ImageView
+            android:id="@+id/imgFood1"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/food1"
+            android:layout_below="@id/txtHeading"
+            android:layout_centerHorizontal="true"/>
+
+        <ImageView
+            android:id="@+id/imgFood2"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_below="@+id/imgFood1"
+            android:src="@drawable/food2"
+            android:layout_centerHorizontal="true"/>
+        <ImageView
+            android:id="@+id/imgFood3"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/food3"
+            android:layout_below="@id/imgFood2"
+            android:layout_centerHorizontal="true"/>
+        <ImageView
+            android:id="@+id/imgFood4"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/food4"
+            android:layout_below="@id/imgFood3"
+            android:layout_centerHorizontal="true"/>
+        <ImageView
+            android:id="@+id/imgFood5"
+            android:layout_width="150dp"
+            android:layout_below="@id/imgFood4"
+            android:layout_height="150dp"
+            android:src="@drawable/food5"
+            android:layout_centerHorizontal="true"/>
+        <ImageView
+            android:id="@+id/imgFood6"
+            android:layout_width="150dp"
+            android:layout_below="@id/imgFood5"
+            android:layout_height="150dp"
+            android:src="@drawable/food6"
+            android:layout_centerHorizontal="true"/>
+        <ImageView
+            android:id="@+id/imgFood7"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_below="@id/imgFood6"
+            android:src="@drawable/food7"
+            android:layout_centerHorizontal="true"/>
+
+
+    </RelativeLayout>
+
+</ScrollView>

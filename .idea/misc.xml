@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Splash/app/src/main/res/layout/acitvity_forget_password_page.xml" value="0.11499493414387031" />
+        <entry key="..\:/Splash/app/src/main/res/layout/activity_food.xml" value="0.25052083333333336" />
+        <entry key="..\:/Splash/app/src/main/res/layout/activity_forgot_password.xml" value="0.25052083333333336" />
+        <entry key="..\:/Splash/app/src/main/res/layout/activity_login.xml" value="0.25052083333333336" />
+        <entry key="..\:/Splash/app/src/main/res/layout/activity_login_page.xml" value="0.3" />
+        <entry key="..\:/Splash/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Splash/app/src/main/res/layout/activity_registration.xml" value="0.25052083333333336" />
+        <entry key="..\:/Splash/app/src/main/res/layout/activity_registration_page.xml" value="0.11499493414387031" />
+        <entry key="..\:/Splash/app/src/main/res/layout/activity_welcome_page.xml" value="0.13179347826086957" />
+        <entry key="..\:/Splash/app/src/main/res/layout/forget_password_page.xml" value="0.25052083333333336" />
+        <entry key="..\:/Splash/app/src/main/res/layout/login_page.xml" value="0.25052083333333336" />
+        <entry key="..\:/Splash/app/src/main/res/layout/registration_page.xml" value="0.3" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
